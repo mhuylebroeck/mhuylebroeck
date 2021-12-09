@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mateo Huylebroeck</h1>
-<h3 align="center">A Full Stack Web Developer from Belgium.</h3>
+<h3 align="center">A Full Stack Web Developer from Belgium. Passionate about social sustainability.</h3>
 
 - 🔭 I’m currently working on **My portfolio**
 
