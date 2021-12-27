@@ -2,13 +2,11 @@
 <h1 align="center">Hi 👋, I'm Mateo Huylebroeck</h1>
 <h3 align="center">A Full Stack Web Developer from Belgium. Passionate about social sustainability.</h3>
 
-- 🔭 I’m currently working on **My portfolio**
-
 - 🌱 I’m currently learning **React**
 
 - 🤝 Social project I worked on [SilverHelp](www.silverhelp.me)
 
-- 👨‍💻 All of my projects are available at [TBC](TBC)
+- 👨‍💻 All of my projects are available at **My portfolio**
 
 - 📫 How to reach me **yhuylebroeck@eada.net**
 
